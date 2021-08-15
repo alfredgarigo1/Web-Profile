@@ -107,6 +107,7 @@ h4 {
   .responsive {
     width: 50%;
     margin: 5px 0;
+    padding-left: 80px;
   }
   .text h2 {
     font-size: 20px;
