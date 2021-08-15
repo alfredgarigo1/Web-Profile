@@ -61,7 +61,7 @@ body {
 }
 
 #quotes {
-  transform: translateY(500px);
+  transform: translateY(10%);
 }
 
 .main .main-img {
